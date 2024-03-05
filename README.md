@@ -18,7 +18,7 @@ Python 3.x
 
 requests library
 
-Customtkinter library (Installation instructions available here)
+Customtkinter library [Installation instructions available here](https://pypi.org/project/customtkinter/)
 
 # Installation
 
@@ -44,3 +44,19 @@ Run the application:
 ```
 python movieinfo.py
 ```
+
+Enter the title of the movie you want to search for in the provided input field.
+
+Click the "Search" button to retrieve information about the movie.
+
+View the details displayed on the screen, including the title, year, genre, plot, IMDb rating, and Rotten Tomatoes rating.
+
+# Credits
+
+This application utilizes the [Open Movie Database](https://www.omdbapi.com/) (OMDb) API to retrieve movie information.
+
+Customtkinter, a custom themeable UI library for Tkinter, is used to create the user interface.
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/qnvr/Movie-Info/blob/main/LICENSE) file for details.
